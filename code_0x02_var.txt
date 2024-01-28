@@ -1,0 +1,4 @@
+SET R = 3
+SET D = 5
+RIGHT R
+DOWN D

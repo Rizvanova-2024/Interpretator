@@ -1,0 +1,16 @@
+REPEAT 3 
+    RIGHT 5 
+ENDREPEAT 
+ 
+DOWN 10 
+
+SET N = 2
+
+PROCEDURE MoveLeftAndUp 
+    REPEAT N
+        LEFT 2 
+        UP 2 
+    ENDREPEAT
+ENDPROC
+
+CALL MoveLeftAndUp

@@ -1,0 +1,1 @@
+Размещен архив GridMaster (1).zip с 5 файлами .py (CodeEditor.py,  CodeTranslator.py , FieldPainter.py, main.py, MainWindow.py) и 3 папками (__pycache__, examples,icons). Открываем и запускаем первым файл main.py. Также отдельно в репозитории есть докерфайл Dockerfile ( но GUI не поддерживает), поэтому лучше смотреть код, скачав архив.
